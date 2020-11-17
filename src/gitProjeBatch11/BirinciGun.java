@@ -12,8 +12,8 @@ public class BirinciGun {
 		System.out.println("23.05 - local");
 		System.out.println("23.23 - github.com");
 		System.out.println("Ben buradan conflict beklemiyorum");
-
-
+		System.out.println("Localde yepyeni bir satir");
+		
 
 	}
 
