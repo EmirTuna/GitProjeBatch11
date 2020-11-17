@@ -6,6 +6,7 @@ public class BirinciGun {
 		
 		System.out.println("11:57 - Birinci Gun");
 		System.out.println("Ikinci commit");
+		System.out.println("22:11 - Ikinci Gun");
 
 	}
 
