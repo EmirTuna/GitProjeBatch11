@@ -14,6 +14,7 @@ public class BirinciGun {
 		System.out.println("Ben buradan conflict beklemiyorum");
 
 
+
 	}
 
 }
