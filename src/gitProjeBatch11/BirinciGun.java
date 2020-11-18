@@ -14,6 +14,7 @@ public class BirinciGun {
 		System.out.println("Ben buradan conflict beklemiyorum");
 		System.out.println("Yepyeni bir satir");
 		System.out.println("22:26 - feature branch");
+		System.out.println("22:52 - feature branch 2");
 		
 
 	}
